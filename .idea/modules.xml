@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SensorUpOrDown.iml" filepath="$PROJECT_DIR$/SensorUpOrDown.iml" />
+      <module fileurl="file://F:\to do\code listing 26Jan 2019\SensorUpOrDown\SensorUpOrDown.iml" filepath="F:\to do\code listing 26Jan 2019\SensorUpOrDown\SensorUpOrDown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\to do\code listing 26Jan 2019\SensorUpOrDown\app\app.iml" filepath="F:\to do\code listing 26Jan 2019\SensorUpOrDown\app\app.iml" />
+    </modules>
+  </component>
+</project>
